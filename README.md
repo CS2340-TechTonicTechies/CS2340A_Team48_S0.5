@@ -2,4 +2,3 @@
 Spring 24 CS 2340 Section A Team 48
 Summer McRoy
 Seth Shi
-Hoyeon Kang
