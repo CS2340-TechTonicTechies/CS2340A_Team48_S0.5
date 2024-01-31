@@ -35,6 +35,13 @@ public class WellnessActivity extends AppCompatActivity {
         //  Intent should switch the activity on screen to FitnessActivity when toFitnessTimerButton is clicked
         //  Intent should also pass the values in the WellnessViewModel to FitnessActivity. HINT: see putExtra documentation in Intent
 
+        toFitnessTimerButton.setOnClickListener(v -> {
+            Intent intent = new Intent(WellnessActivity.this, FitnessActivity.class);
+            intent.putExtra("sleepHoursValue", viewModel.getWellnessData().getSleepHours());
+            intent.putExtra("fitnessMinutesValue", viewModel.getWellnessData().getFitnessMinutes());
+
+            startActivity(intent);
+        });
 
         // TODO 3: program the saveButton with the saveConfigurationData callback when clicked
 
