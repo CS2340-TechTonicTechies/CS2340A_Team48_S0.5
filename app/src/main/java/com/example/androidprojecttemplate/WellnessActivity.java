@@ -37,7 +37,11 @@ public class WellnessActivity extends AppCompatActivity {
 
 
         // TODO 3: program the saveButton with the saveConfigurationData callback when clicked
-
+        saveButton.setOnClickListener(new View.OnClickListener() {
+            public void onClick(View v) {
+                saveConfigurationData(sleepEditText, fitnessEditText);
+            }
+        });
     }
 
 
