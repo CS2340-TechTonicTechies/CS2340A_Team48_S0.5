@@ -4,4 +4,3 @@ Summer McRoy
 Seth Shi
 Hoyeon-Kang
 Patrick Guo
-Test change
