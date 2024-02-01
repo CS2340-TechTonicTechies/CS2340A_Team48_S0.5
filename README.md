@@ -1,9 +1,11 @@
 # CS2340A_Team48_S0.5
 Spring 24 CS 2340 Section A Team 48
+
 Summer McRoy: 2, 8
 Seth Shi: 3
 Hoyeon-Kang: 1, 7
 Patrick Guo
+Sean Uz: 4
 
 # Android Assignment
 
@@ -32,4 +34,3 @@ Although it is not essential, you may want consider doing these TODOs in order a
 Please refer to the Android Tutorial videos posted to Canvas for implementation tips.
 
 Here is a video displaying the correct functionality of the app that you should strive for: https://youtu.be/wkqQoSRT7y8
-
