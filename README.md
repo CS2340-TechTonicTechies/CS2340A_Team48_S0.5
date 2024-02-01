@@ -25,4 +25,3 @@ Although it is not essential, you may want consider doing these TODOs in order a
 Please refer to the Android Tutorial videos posted to Canvas for implementation tips.
 
 Here is a video displaying the correct functionality of the app that you should strive for: https://youtu.be/wkqQoSRT7y8
-
