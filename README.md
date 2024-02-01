@@ -1,3 +1,12 @@
+# CS2340A_Team48_S0.5
+Spring 24 CS 2340 Section A Team 48
+
+Summer McRoy: 2, 8
+Seth Shi: 3
+Hoyeon-Kang: 1, 7
+Patrick Guo
+Sean Uz: 4
+
 # Android Assignment
 
 In this assignment will be completing the implmentation of a basic fitness tracker app by filling in 8 different TODOs represting missing parts of a fully functionaly app. 
