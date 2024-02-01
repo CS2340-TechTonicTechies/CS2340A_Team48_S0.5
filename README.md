@@ -1,8 +1,8 @@
 # CS2340A_Team48_S0.5
 Spring 24 CS 2340 Section A Team 48
-Summer McRoy
-Seth Shi
-Hoyeon-Kang
+Summer McRoy: 2, 8
+Seth Shi: 3
+Hoyeon-Kang: 1, 7
 Patrick Guo
 
 # Android Assignment
