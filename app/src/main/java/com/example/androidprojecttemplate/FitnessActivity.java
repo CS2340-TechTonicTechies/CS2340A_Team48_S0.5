@@ -48,10 +48,11 @@ public class FitnessActivity extends AppCompatActivity {
              * HINT: look at the implementation of runTimer
              */
             if (startStopButton.getText().equals("Start")) {
-                
                 startStopButton.setText("Stop");
+                stopwatchRunning = true;
             } else {
                 startStopButton.setText("Start");
+                stopwatchRunning = false;
             }
 
 
