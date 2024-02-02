@@ -5,3 +5,4 @@ Seth Shi
 Hoyeon-Kang
 Patrick Guo
 Sean Uz
+Nevin Sethi
