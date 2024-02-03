@@ -21,11 +21,9 @@
 
 <!--    TODO 4: Create XML button object that binds to the saveButton instance in WellnessActivtity-->
 <!--    Make sure to abide by the constraints outlined by LinearLayout when setting the layout width and height -->
-    <Button
-        android:id="@+id/saveButton"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="Save"/>
+
+
+
 
     <Button
         android:id="@+id/toFitnessTimerButton"
