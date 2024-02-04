@@ -50,6 +50,7 @@ public class FitnessActivity extends AppCompatActivity {
             if (startStopButton.getText().equals("Start")) {
                 startStopButton.setText("Stop");
                 stopwatchRunning = true;
+
             } else {
                 startStopButton.setText("Start");
                 stopwatchRunning = false;
