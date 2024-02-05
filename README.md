@@ -4,7 +4,7 @@ Spring 24 CS 2340 Section A Team 48
 Summer McRoy: 2, 8
 Seth Shi: 3
 Hoyeon-Kang: 1, 7
-Patrick Guo
+Patrick Guo: 5
 Sean Uz: 4
 
 # Android Assignment
