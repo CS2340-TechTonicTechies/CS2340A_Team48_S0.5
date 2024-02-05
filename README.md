@@ -7,6 +7,8 @@ Hoyeon-Kang: 1, 7
 Patrick Guo: 5
 Sean Uz: 4
 
+This is our android studio assignment. We learned how to use android studio as well as various
+aspects of it such as the android lifecycle. 
 # Android Assignment
 
 In this assignment will be completing the implmentation of a basic fitness tracker app by filling in 8 different TODOs represting missing parts of a fully functionaly app. 
