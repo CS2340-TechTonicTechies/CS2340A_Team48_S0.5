@@ -6,6 +6,7 @@ Seth Shi: 3
 Hoyeon-Kang: 1, 7
 Patrick Guo: 5
 Sean Uz: 4
+Nevin Sethi: 6
 
 # Android Assignment
 
