@@ -6,6 +6,7 @@ Seth Shi: 3
 Hoyeon-Kang: 1, 7
 Patrick Guo: 5
 Sean Uz: 4
+Nevin Sethi: 6
 
 This is our android studio assignment. We learned how to use android studio as well as various
 aspects of it such as the android lifecycle. 
