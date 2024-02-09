@@ -36,9 +36,17 @@ public class FitnessActivity extends AppCompatActivity {
         startStopButton = findViewById(R.id.startStopButton);
 
 
-        // TODO 6: Retrieve WellnessViewModel data from bundle and set 'sleepHoursTextView' and 'fitnessMinutesTextView' displays to these values
+//    TODO 6: Retrieve WellnessViewModel data from bundle and set 'sleepHoursTextView' and 'fitnessMinutesTextView' displays to these values
+      WellnessViewModel viewModel = WellnessViewModel.getInstance();
+      
+        if (viewModel != null && viewModel.getWellnessData() != null) {
+            int sleepHours = viewModel.getWellnessData().getSleepHours();
+            int fitnessMinutes = viewModel.getWellnessData().getFitnessMinutes();
+            sleepHoursTextView.setText("Sleep Hours: " + String.valueOf(sleepHours));
+            fitnessMinutesTextView.setText("Fitness Minutes: " + String.valueOf(fitnessMinutes));
+        }
 
-        
+
 
         startStopButton.setOnClickListener(v -> {
             runTimer(); // Don't change or remove this line!
@@ -90,7 +98,7 @@ public class FitnessActivity extends AppCompatActivity {
 
 
     /**
-        DO NOT MODIFY!
+     DO NOT MODIFY!
      */
     private String formatTime(int totalSecs) {
         int hours = totalSecs / 3600;
