@@ -38,8 +38,7 @@ public class FitnessActivity extends AppCompatActivity {
 
         // TODO 6: Retrieve WellnessViewModel data from bundle and set 'sleepHoursTextView' and 'fitnessMinutesTextView' displays to these values
 
-
-
+        
 
         startStopButton.setOnClickListener(v -> {
             runTimer(); // Don't change or remove this line!
@@ -50,12 +49,12 @@ public class FitnessActivity extends AppCompatActivity {
              * HINT: look at the implementation of runTimer
              */
             if (startStopButton.getText().equals("Start")) {
-                startStopButton.setText("Stop");
                 stopwatchRunning = true;
+                startStopButton.setText("Stop");
 
             } else {
-                startStopButton.setText("Start");
                 stopwatchRunning = false;
+                startStopButton.setText("Start");
             }
 
 
