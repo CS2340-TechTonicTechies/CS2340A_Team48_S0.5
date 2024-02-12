@@ -8,7 +8,7 @@ Patrick Guo: 5
 Sean Uz: 4
 Nevin Sethi: 6
 
-This is our android studio assignment. We learned how to use android studio as well as various
+This is our android studio assignment for spring 2024. We learned how to use android studio as well as various
 aspects of it such as the android lifecycle. 
 # Android Assignment
 
