@@ -2,19 +2,23 @@
 Spring 24 CS 2340 Section A Team 48
 
 Summer McRoy: 2, 8
+
 Seth Shi: 3
+
 Hoyeon-Kang: 1, 7
+
 Patrick Guo: 5
+
 Sean Uz: 4
+
 Nevin Sethi: 6
 
-This is our android studio assignment for spring 2024. We learned how to use android studio as well as various
-aspects of it such as the android lifecycle. 
+This is our android studio assignment for spring 2024. We learned how to use android studio as well as various aspects of it such as the android lifecycle. 
 # Android Assignment
 
-In this assignment will be completing the implmentation of a basic fitness tracker app by filling in 8 different TODOs represting missing parts of a fully functionaly app. 
+In this assignment will be completing the implementation of a basic fitness tracker app by filling in 8 different TODOs representing missing parts of a fully functional app. 
 
-The app will have two Activities, `WellnessActivity` and a  `FitnessActivity`, that will correspond to a configuration tool for desired wellness metrics and a stopwatch tool, respectivley.
+The app will have two Activities, `WellnessActivity` and a  `FitnessActivity`, that will correspond to a configuration tool for desired wellness metrics and a stopwatch tool, respectively.
 
 The project folder contains 8 TODOs in 5 different files:
 
@@ -30,7 +34,7 @@ The project folder contains 8 TODOs in 5 different files:
 
 
 
-Note that some of the TODOs (particulary the ones implementing Intents and Bundles) are dependedent on the implmentation in both of the Activities
+Note that some of the TODOs (particularly the ones implementing Intents and Bundles) are dependent on the implementation in both of the Activities
 
 Although it is not essential, you may want consider doing these TODOs in order as the concepts are somewhat sequential.
 
