@@ -13,7 +13,7 @@ Sean Uz: 4
 
 Nevin Sethi: 6
 
-This is our android studio assignment for spring 2024. We learned how to use android studio as well as various aspects of it such as the android lifecycle. 
+We learned how to use android studio as well as various aspects of it such as the android lifecycle. 
 # Android Assignment
 
 In this assignment will be completing the implementation of a basic fitness tracker app by filling in 8 different TODOs representing missing parts of a fully functional app. 
